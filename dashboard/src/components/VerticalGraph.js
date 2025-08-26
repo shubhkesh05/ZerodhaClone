@@ -9,6 +9,7 @@ import {
   Legend,
 } from "chart.js";
 import { Bar } from "react-chartjs-2";
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
 
 ChartJS.register(
   CategoryScale,
