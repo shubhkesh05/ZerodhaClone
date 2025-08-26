@@ -5,6 +5,7 @@ import axios from "axios";
 import GeneralContext from "./GeneralContext";
 
 import { Tooltip, Grow } from "@mui/material";
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
 
 import {
   BarChartOutlined,
