@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
 
 import BuyActionWindow from "./BuyActionWindow";
 
