@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios, { all } from "axios";
 import { VerticalGraph } from "./VerticalGraph";
-
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
 // import { holdings } from "../data/data";
 
 const Holdings = () => {
