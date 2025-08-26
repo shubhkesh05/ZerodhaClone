@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
 
 const Funds = () => {
   return (
