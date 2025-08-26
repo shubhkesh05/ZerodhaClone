@@ -9,6 +9,8 @@ import OpenAccount from "../OpenAccount";
 import Navbar from "../Navbar";
 import Footer from "../Footer";
 
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
+
 function HomePage() {
   return (
     <>
