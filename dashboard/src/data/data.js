@@ -55,6 +55,8 @@ export const watchlist = [
   },
 ];
 
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
+
 // holdings
 export const holdings = [
   {
