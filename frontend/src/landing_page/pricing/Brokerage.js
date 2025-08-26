@@ -1,5 +1,6 @@
 import React from "react";
 
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
 function Brokerage() {
   return (
     <div className="container">
