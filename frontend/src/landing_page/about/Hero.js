@@ -1,4 +1,5 @@
 import React from "react";
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
 
 function Hero() {
   return (
