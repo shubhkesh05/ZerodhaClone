@@ -1,3 +1,4 @@
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
 import React from "react";
 
 const Summary = () => {
