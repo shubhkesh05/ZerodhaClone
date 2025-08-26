@@ -1,6 +1,7 @@
 import React from "react";
 
 import Menu from "./Menu";
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
 
 const TopBar = () => {
   return (
