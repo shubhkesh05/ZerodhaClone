@@ -1,5 +1,7 @@
 import React from "react";
 
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
+
 function Footer() {
   return (
     <footer style={{ backgroundColor: "rgb(250, 250, 250)" }}>
