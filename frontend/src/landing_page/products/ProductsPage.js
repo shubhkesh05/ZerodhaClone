@@ -8,6 +8,8 @@ import Universe from "./Universe";
 import Navbar from "../Navbar";
 import Footer from "../Footer";
 
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
+
 function PricingPage() {
   return (
     <>
