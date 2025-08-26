@@ -10,6 +10,7 @@ import Positions from "./Positions";
 import Summary from "./Summary";
 import WatchList from "./WatchList";
 import { GeneralContextProvider } from "./GeneralContext";
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
 
 const Dashboard = () => {
   return (
