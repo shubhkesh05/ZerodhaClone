@@ -3,6 +3,7 @@ import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";
 import { Doughnut } from "react-chartjs-2";
 
 ChartJS.register(ArcElement, Tooltip, Legend);
+export const url  = 'https://zerodha-backend-ko6u.onrender.com';
 
 export function DoughnutChart({ data }) {
   return <Doughnut data={data} />;
